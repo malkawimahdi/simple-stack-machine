@@ -1,0 +1,17 @@
+-- Alternative grammar for the teeny-weeny language.
+----------------------------------------------------
+
+-- In the Prog production we use an additional non-terminal StmSeq,
+-- instead of Kleene-*, just to illustrate an alternative approach
+
+Prog   -> BEGIN StmSeq END
+
+StmSeq -> Stm StmSeq
+StmSeq ->
+
+Stm    -> IF LBR Exp RBR Stm ELSE Stm
+Stm    -> PRINTINT Exp SEMIC
+Stm    -> PRINTCHAR Exp SEMIC
+Stm    -> LCBR Stm* RCBR
+
+Exp    -> INT

@@ -1,0 +1,8 @@
+Stm -> ID AfterID
+AfterID -> ASSIGN Exp
+AfterID -> LSQBR Exp RSQBR ASSIGN Exp
+
+Exp -> INT
+Exp -> ID AfterInt
+AfterInt -> LSQBR Exp RSQBR
+Exp -> NEW LSQBR Exp RSQBR

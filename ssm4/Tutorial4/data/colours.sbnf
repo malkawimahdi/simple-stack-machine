@@ -1,0 +1,8 @@
+Colours     -> BEGIN ColourList END
+
+ColourList  -> Colour ColourList
+ColourList  ->
+
+Colour      -> RED
+Colour      -> GREEN
+Colour      -> BLUE

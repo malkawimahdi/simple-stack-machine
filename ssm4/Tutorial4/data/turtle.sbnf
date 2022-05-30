@@ -1,0 +1,10 @@
+-- This grammar is ambiguous. Can you see why?
+-- What are the selection sets for the two TCmdList rules?
+-- Give an example of a TCmd with two different parse trees.
+
+TCmd     -> MOVE
+TCmd     -> TURN
+TCmd     -> REPEAT INT TCmdList
+
+TCmdList -> TCmd TCmdList
+TCmdList ->

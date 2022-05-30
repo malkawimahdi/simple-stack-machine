@@ -1,0 +1,18 @@
+-- A fragment of a language with arrays.
+
+-- Some example Stm's:
+--
+--    x = 32
+--    yourArray = new [83]
+--    myArray[66] = yourArray[myArray[63]]
+--
+
+//Problem is that the LL(1) parser, will have two definitions to choose Stm from therefore the grammar is incorrect.
+Stm -> ID ASSIGN Exp
+Stm -> ID LSQBR Exp RSQBR ASSIGN Exp
+
+//Same for Exp as there are the same ID as the first token.
+Exp -> INT
+Exp -> ID
+Exp -> ID LSQBR Exp RSQBR
+Exp -> NEW LSQBR Exp RSQBR

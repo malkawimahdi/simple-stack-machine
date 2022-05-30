@@ -1,0 +1,11 @@
+-- Grammar for a teeny-weeny language.
+--------------------------------------
+
+Prog         -> BEGIN Stm* END
+
+Stm          -> IF LBR Exp RBR Stm ELSE Stm
+Stm          -> PRINTINT Exp SEMIC
+Stm          -> PRINTCHAR Exp SEMIC
+Stm          -> LCBR Stm* RCBR
+
+Exp          -> INT

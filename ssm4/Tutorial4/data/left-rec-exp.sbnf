@@ -1,0 +1,7 @@
+-- This grammar is both left-recursive and ambiguous, so it cannot be LL(1).
+-- Calculate the selection sets to see the choice-conflicts.
+
+Exp -> Exp OP Exp
+Exp -> INT
+Exp -> ID
+Exp -> LBR Exp RBR
