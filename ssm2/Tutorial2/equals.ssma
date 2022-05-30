@@ -1,0 +1,8 @@
+push running_sum
+load
+push 3
+sysc
+halt
+
+.data
+running_sum: 10

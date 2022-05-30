@@ -1,0 +1,8 @@
+push runningSum
+load
+push
+
+
+
+.data
+runningSum: 0

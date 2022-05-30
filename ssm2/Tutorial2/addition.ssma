@@ -1,0 +1,15 @@
+push number1
+load
+push number2
+load
+add
+push 3
+sysc
+halt
+
+
+
+
+.data
+number1: 5
+number2: 5
