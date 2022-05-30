@@ -1,0 +1,6 @@
+begin 
+   Y = -1 == x__ ; 
+   printchar 122 * 1 - 846 + 1 ; 
+   printchar _$$ ; 
+   printint Id99 ; 
+end 

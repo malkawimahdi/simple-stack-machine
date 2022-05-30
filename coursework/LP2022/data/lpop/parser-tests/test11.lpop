@@ -1,0 +1,6 @@
+begin 
+   printint Id99 ; 
+   while ( _a ) do 
+   done 
+   printchar Y ; 
+end 

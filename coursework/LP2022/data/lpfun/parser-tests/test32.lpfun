@@ -1,0 +1,20 @@
+begin 
+   printint 484 - ( 737 / -1 ) ; 
+   while ( _$$ ) do 
+      printint z ; 
+      return 673 ; 
+   done 
+   while ( 60 ) do 
+      printchar 90 ; 
+      _a = xx$7 ; 
+   done 
+   Y = 808 ; 
+   return iD0 ; 
+end 
+fun fuBar1 ( ) { 
+   printchar Y ; 
+   _my$Foo_ ( _a ) ; 
+   printint 699 ; 
+} 
+fun fuBar1 ( ) { 
+} 

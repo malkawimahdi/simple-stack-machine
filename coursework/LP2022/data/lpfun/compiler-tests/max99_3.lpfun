@@ -1,0 +1,12 @@
+begin
+   main(99, 3);
+   main(3, 99);
+end
+
+fun main(x, y) {
+  if (x < y) then
+    printint y;
+  else
+    printint x;
+  endif
+}

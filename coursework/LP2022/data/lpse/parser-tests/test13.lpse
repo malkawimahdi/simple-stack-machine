@@ -1,0 +1,7 @@
+begin 
+   printchar Y ; 
+   printchar x__ ; 
+   while ( -79 ) do 
+   done 
+   printchar Y ; 
+end 

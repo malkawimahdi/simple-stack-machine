@@ -1,0 +1,4 @@
+begin 
+   _a = -62 ; 
+   printchar xx$7 ; 
+end 

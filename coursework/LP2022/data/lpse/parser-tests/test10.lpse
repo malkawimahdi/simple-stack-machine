@@ -1,0 +1,7 @@
+begin 
+   printchar _Algernon_ * _$$ ; 
+   printint 1 ; 
+   if ( -257 ) then 
+   else 
+   endif 
+end 

@@ -1,0 +1,19 @@
+begin
+   main(11, -13);
+end
+
+fun main(x, y) {
+  printint recsum(x, y);
+}
+
+fun recsum(x, y) {
+  if (x < 0) then
+    y = recsum(x + 1, y - 1);
+  else
+    if (0 < x) then
+      y = recsum(x - 1, y + 1);
+    else
+    endif
+  endif
+  return y;
+}

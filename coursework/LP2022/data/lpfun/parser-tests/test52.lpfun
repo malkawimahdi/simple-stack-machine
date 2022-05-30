@@ -1,0 +1,73 @@
+begin 
+   if ( ( 245 == 894 ) + 891 ) then 
+      printint 770 ; 
+      printchar 32 ; 
+      printint 1 ; 
+      printchar _Algernon_ ; 
+   else 
+      printchar iD0 / foo ( ) ; 
+      x__ = _$$ ; 
+      printint 149 ; 
+      printchar 81 ; 
+   endif 
+   printint -41 ; 
+   printchar 56 < Y ; 
+   printchar z ; 
+   printint z ; 
+   return -198 ; 
+   printint 230 ; 
+end 
+fun laLa ( iD0 , x__ , x , _a , z ) { 
+   printint _my$Foo_ ( -113 , -135 * ( Y ) , 266 * laLa ( 475 ) , 0 , _$$ , _$$ * 0 ) * 120 ; 
+   if ( 101 + z ) then 
+      printint 366 / 780 ; 
+      return ( 1 ) ; 
+   else 
+   endif 
+   _a = _$$ - 414 ; 
+   while ( 429 + bar ( 672 ) ) do 
+      while ( ( -222 ) ) do 
+         iD0 = x ; 
+         return 0 ; 
+         printchar z ; 
+      done 
+      while ( 206 + 272 ) do 
+         printchar x__ ; 
+      done 
+      return 1 ; 
+      printchar 76 ; 
+      printchar 97 ; 
+   done 
+   printint ( 284 ) * Y ; 
+} 
+fun g ( z , _a , _a , z ) { 
+   return _a < ( iD0 ) ; 
+   printchar 56 ; 
+   printint 89 ; 
+   printchar __ ; 
+} 
+fun foo ( Y , Id99 ) { 
+   printchar xx$7 ; 
+} 
+fun f ( ) { 
+} 
+fun bar ( Y , __ , xx$7 , xx$7 , xx$7 , x__ ) { 
+   printchar 96 ; 
+   if ( Y ) then 
+   else 
+   endif 
+} 
+fun bar ( Id99 , x , _Algernon_ , x__ ) { 
+   laLa ( ) ; 
+   xx$7 = x ; 
+   printchar 47 ; 
+   printchar 102 ; 
+} 
+fun g ( ) { 
+   _a = _a ; 
+} 
+fun f ( ) { 
+   printchar 66 ; 
+} 
+fun fuBar1 ( ) { 
+} 

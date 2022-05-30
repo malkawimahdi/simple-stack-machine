@@ -1,0 +1,26 @@
+begin
+   main(876);
+end
+
+fun main(x) {
+  myprintint(x);
+}
+
+fun myprintint(x) {
+  if (x < 0) then
+    printchar 45;
+    x = 0 - x;
+  else
+  endif
+  pot = 1;
+  y = x;
+  while (9 < y) do
+    pot = pot * 10;
+    y = y / 10;
+  done
+  while (0 < pot) do
+    printchar 48 + (x / pot);
+    x = x - ((x / pot) * pot);
+    pot = pot / 10;
+  done
+}

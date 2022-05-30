@@ -1,0 +1,37 @@
+begin 
+   printchar ( fuBar1 ( 407 ) ) <= 432 ; 
+   printint -1 <= -52 ; 
+   while ( _$$ ) do 
+   done 
+   return 748 ; 
+   printint _Algernon_ ; 
+end 
+fun g ( x__ , _Algernon_ ) { 
+   printchar ( _$$ ) + ( 664 ) ; 
+   if ( x - iD0 ) then 
+      while ( -1 - 510 ) do 
+         printint -30 ; 
+         printint ( __ ) ; 
+      done 
+      return 1 ; 
+      printchar 126 ; 
+   else 
+      while ( g ( ) / foo ( 912 ) ) do 
+      done 
+      printint -11 ; 
+      return x__ ; 
+      return _a ; 
+   endif 
+   return x ; 
+   printint x__ ; 
+   printchar 38 ; 
+} 
+fun _my$Foo_ ( __ ) { 
+} 
+fun bar ( _$$ , x , _Algernon_ , iD0 ) { 
+} 
+fun foo ( iD0 , x , x ) { 
+} 
+fun fuBar1 ( ) { 
+   printchar 37 ; 
+} 

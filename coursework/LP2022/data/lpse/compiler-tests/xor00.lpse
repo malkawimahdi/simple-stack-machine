@@ -1,0 +1,39 @@
+begin
+  x = 0;
+  y = 0;
+  if (x == 0) then
+    a = 0;
+  else
+    a = 1;
+  endif
+  if (y == 0) then
+    b = 0;
+  else
+    b = 1;
+  endif
+  if (a) then
+    if (b == 0) then
+       printint 101;
+    else
+      if (b) then
+        if (a == 0) then
+          printint 102;
+        else
+          printint 103;
+        endif
+      else
+        printint 104;
+      endif
+    endif
+  else
+    if (b) then
+      if (a == 0) then
+        printint 105;
+      else
+        printint 106;
+      endif
+    else
+      printint 107;
+    endif
+  endif
+end

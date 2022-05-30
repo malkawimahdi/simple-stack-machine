@@ -1,0 +1,22 @@
+begin
+   main(-123, 120);
+   printchar 13; printchar 10;
+   main(123, -120);
+   printchar 13; printchar 10;
+end
+
+fun main(x, y) {
+  printint recsum(x, y);
+}
+
+fun recsum(x, y) {
+  if (x < 0) then
+    y = recsum(x + 1, y - 1);
+  else
+    if (0 < x) then
+      y = recsum(x - 1, y + 1);
+    else
+    endif
+  endif
+  return y;
+}

@@ -1,0 +1,4 @@
+begin 
+   Y = ( x__ ) == -1 ; 
+   printint Y ; 
+end 

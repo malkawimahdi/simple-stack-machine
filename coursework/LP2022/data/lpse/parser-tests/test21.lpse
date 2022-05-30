@@ -1,0 +1,14 @@
+begin 
+   printint z ; 
+   printchar __ ; 
+   z = xx$7 ; 
+   while ( 212 ) do 
+      printchar _a ; 
+   done 
+   if ( 104 ) then 
+   else 
+   endif 
+   printint xx$7 ; 
+   printint _$$ ; 
+   printint x__ ; 
+end 

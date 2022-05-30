@@ -1,0 +1,8 @@
+begin 
+   printchar 87 ; 
+   printint __ ; 
+end 
+fun foo ( ) { 
+} 
+fun foo ( ) { 
+} 

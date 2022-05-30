@@ -1,0 +1,31 @@
+begin 
+   printchar 61 + xx$7 ; 
+   _a = xx$7 < 1 ; 
+   _a = Y <= iD0 ; 
+   if ( ( -268 == ( 0 - Y ) ) / x ) then 
+      printchar _Algernon_ ; 
+      printint -213 < 183 ; 
+      printchar _Algernon_ / ( -266 ) ; 
+      Id99 = ( 143 ) / 0 ; 
+      while ( Y - ( _a ) ) do 
+         printint 753 ; 
+         printint z ; 
+         printchar 101 ; 
+         printint z ; 
+      done 
+      printchar 79 + _Algernon_ ; 
+      printint 396 ; 
+   else 
+      printint ( ( -19 ) ) < iD0 ; 
+      printchar x__ <= ( x ) ; 
+      while ( Id99 ) do 
+         printchar 76 ; 
+      done 
+   endif 
+   x__ = 482 <= __ ; 
+   printint xx$7 - Id99 ; 
+   if ( -1 + 381 ) then 
+   else 
+      printchar _a - -1 ; 
+   endif 
+end 

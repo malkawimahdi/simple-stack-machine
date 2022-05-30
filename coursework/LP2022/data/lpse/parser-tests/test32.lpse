@@ -1,0 +1,12 @@
+begin 
+   _a = ( -70 * -209 ) - Id99 ; 
+   _$$ = _$$ ; 
+   printchar ( ( _$$ ) == 1 ) <= _$$ ; 
+   printint ( 637 ) + -105 ; 
+   if ( 0 ) then 
+      iD0 = x__ ; 
+   else 
+      while ( 399 ) do 
+      done 
+   endif 
+end 

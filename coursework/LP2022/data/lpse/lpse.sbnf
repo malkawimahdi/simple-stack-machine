@@ -1,0 +1,41 @@
+-- LL(1) Grammar for LPse
+
+Prog -> BEGIN Stm* END
+
+
+Stm -> PRINTINT Exp SEMIC
+
+Stm -> PRINTCHAR Exp SEMIC
+
+Stm -> WHILE LBR Exp RBR DO Stm* DONE
+
+Stm -> IF LBR Exp RBR THEN Stm* ELSE Stm* ENDIF
+
+Stm -> ID EQUALS Exp SEMIC
+
+
+Exp -> BasicExp ExpRest
+
+
+BasicExp -> INT
+
+BasicExp -> ID
+
+BasicExp -> LBR Exp RBR
+
+
+ExpRest -> ADD BasicExp
+
+ExpRest -> MUL BasicExp
+
+ExpRest -> SUB BasicExp
+
+ExpRest -> DIV BasicExp
+
+ExpRest -> EQUALSEQUALS BasicExp
+
+ExpRest -> LESSTHAN BasicExp
+
+ExpRest -> LESSTHANOREQUALSTO BasicExp
+
+ExpRest ->

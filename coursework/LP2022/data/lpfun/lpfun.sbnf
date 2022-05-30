@@ -1,0 +1,52 @@
+-- Grammar rules for LPfun
+Prog -> BEGIN Stm* END DefineFunction*
+
+
+Stm -> PRINTINT Exp SEMIC
+
+Stm -> PRINTCHAR Exp SEMIC
+
+Stm -> WHILE LBR Exp RBR DO Stm* DONE
+
+Stm -> IF LBR Exp RBR THEN Stm* ELSE Stm* ENDIF
+
+Stm -> ID IDRest SEMIC
+
+Stm -> RETURN Exp SEMIC
+
+
+DefineFunction -> FUN ID LBR Exp RBR LCBR Stm* RCBR
+
+
+Exp -> BasicExp ExpRest
+
+
+BasicExp -> INT
+
+BasicExp -> ID IDRest SEMIC
+
+BasicExp -> LBR Exp RBR
+
+
+ExpRest -> ADD Exp
+
+ExpRest -> MUL Exp
+
+ExpRest -> SUB Exp
+
+ExpRest -> DIV Exp
+
+ExpRest -> EQUALSEQUALS Exp
+
+ExpRest -> LESSTHAN Exp
+
+ExpRest -> LESSTHANOREQUALSTO Exp
+
+ExpRest -> COMMA Exp
+
+ExpRest ->
+
+
+IDRest -> Exp
+
+IDRest -> EQUALS Exp

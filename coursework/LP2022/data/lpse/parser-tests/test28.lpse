@@ -1,0 +1,11 @@
+begin 
+   while ( Y == x__ ) do 
+      printint -32 ; 
+   done 
+   printint 628 ; 
+   if ( ( 3 ) ) then 
+   else 
+   endif 
+   printint 162 ; 
+   printint x__ ; 
+end 

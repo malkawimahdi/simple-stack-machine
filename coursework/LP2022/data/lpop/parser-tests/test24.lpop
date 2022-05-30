@@ -1,0 +1,9 @@
+begin 
+   printint 496 == _a == _$$ ; 
+   _a = _$$ ; 
+   printint 251 ; 
+   if ( x ) then 
+      printint Id99 ; 
+   else 
+   endif 
+end 

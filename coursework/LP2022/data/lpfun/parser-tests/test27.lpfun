@@ -1,0 +1,12 @@
+begin 
+   printint 755 ; 
+   return -119 ; 
+   foo ( 1 ) ; 
+   return _Algernon_ ; 
+   return xx$7 ; 
+   printchar Y ; 
+   printint x__ ; 
+end 
+fun fuBar1 ( _$$ ) { 
+   xx$7 = __ ; 
+} 

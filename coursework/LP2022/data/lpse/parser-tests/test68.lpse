@@ -1,0 +1,167 @@
+begin 
+   if ( x == 1 ) then 
+      printint ( 742 ) * 602 ; 
+      printint -172 + 642 ; 
+      printchar _$$ ; 
+   else 
+      while ( 723 < 41 ) do 
+         printchar iD0 ; 
+         printchar __ ; 
+         if ( __ ) then 
+         else 
+         endif 
+      done 
+      _Algernon_ = 704 <= 52 ; 
+      if ( x ) then 
+         _a = Id99 ; 
+      else 
+         while ( x ) do 
+         done 
+         printint _Algernon_ ; 
+      endif 
+      printchar Y / 276 ; 
+      Y = __ ; 
+      __ = 644 ; 
+      printchar 102 ; 
+      printint 645 ; 
+   endif 
+   while ( _a + -31 ) do 
+      printint iD0 / __ ; 
+      _$$ = xx$7 ; 
+      printint 0 ; 
+      printint _Algernon_ ; 
+      while ( 147 ) do 
+      done 
+      printchar _Algernon_ ; 
+      printchar x ; 
+   done 
+   while ( ( -153 * -203 ) < z ) do 
+      _Algernon_ = 407 / 0 ; 
+      printint _Algernon_ ; 
+      if ( iD0 <= -148 ) then 
+         _$$ = 632 < z ; 
+         printchar x__ * ( 444 ) ; 
+         while ( ( xx$7 == ( 823 <= ( 740 ) ) ) + ( x ) ) do 
+            Id99 = 351 + x__ ; 
+            printchar 76 ; 
+            while ( 221 ) do 
+            done 
+            xx$7 = __ ; 
+         done 
+         printint x ; 
+         printchar 68 ; 
+         printchar Y ; 
+      else 
+         printint Id99 < ( 839 ) ; 
+         printint __ ; 
+         if ( ( ( -201 ) ) == x ) then 
+            printint 1 ; 
+         else 
+         endif 
+      endif 
+      if ( x ) then 
+         printint _a ; 
+         while ( _Algernon_ ) do 
+            printchar 90 ; 
+            if ( xx$7 ) then 
+               printint x ; 
+            else 
+            endif 
+            printchar _Algernon_ ; 
+         done 
+      else 
+         printint _$$ ; 
+         z = -85 ; 
+         z = x__ < -1 ; 
+         printchar iD0 ; 
+      endif 
+      printint ( -1 + 292 ) - 772 ; 
+      if ( 0 ) then 
+         printchar xx$7 ; 
+      else 
+         printchar 34 ; 
+      endif 
+      Y = ( x ) ; 
+      if ( -105 ) then 
+      else 
+      endif 
+      printint 1 ; 
+      printchar _Algernon_ ; 
+      printint 405 ; 
+   done 
+   if ( z < ( ( _$$ ) ) ) then 
+      while ( ( ( -187 ) * 720 ) == 1 ) do 
+         Id99 = 909 ; 
+         printchar Id99 ; 
+         printchar Id99 ; 
+         if ( 24 ) then 
+         else 
+         endif 
+         printint -1 ; 
+      done 
+      printint Id99 ; 
+      if ( 1 * x ) then 
+         if ( ( -1 ) == 219 ) then 
+            printchar x__ ; 
+            printchar Id99 + xx$7 ; 
+            if ( _a ) then 
+            else 
+               printint _a ; 
+            endif 
+            _a = 411 ; 
+         else 
+            printint x__ ; 
+            printchar 85 ; 
+            __ = 1 ; 
+         endif 
+         _a = x ; 
+         if ( 851 ) then 
+         else 
+         endif 
+         if ( _a ) then 
+         else 
+         endif 
+      else 
+         _$$ = ( x__ ) - iD0 ; 
+         if ( -8 ) then 
+            printint _Algernon_ ; 
+            while ( x__ ) do 
+            done 
+            printint -238 ; 
+            printchar _Algernon_ ; 
+         else 
+            printint z ; 
+            printchar Y ; 
+            printchar 114 ; 
+         endif 
+         printint ( xx$7 ) ; 
+         printint 0 ; 
+      endif 
+      printint _$$ * -183 ; 
+      printchar __ ; 
+   else 
+      while ( _Algernon_ == ( 1 ) ) do 
+      done 
+      Id99 = Y * -134 ; 
+      printint iD0 ; 
+   endif 
+   printchar 118 == ( -265 ) ; 
+   x__ = x__ / xx$7 ; 
+   while ( 0 < xx$7 ) do 
+      printint x__ ; 
+      if ( -1 ) then 
+         while ( 0 ) do 
+            printchar Id99 ; 
+         done 
+      else 
+         printchar xx$7 ; 
+      endif 
+      if ( -1 ) then 
+      else 
+         printchar __ ; 
+      endif 
+      printint 840 ; 
+   done 
+   iD0 = 879 - _Algernon_ ; 
+   printint _$$ ; 
+end 

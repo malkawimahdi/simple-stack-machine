@@ -1,0 +1,18 @@
+begin
+   main();
+   main();
+end
+
+fun main() {
+   if (foo(0)) then printint 7; else printint 8; endif
+   if (foo(99)) then printint 7; else printint 8; endif
+}
+
+fun foo(n) {
+   bar();
+   if (0 == n) then return 1; else endif
+}
+
+fun bar() {
+   return 1;
+}

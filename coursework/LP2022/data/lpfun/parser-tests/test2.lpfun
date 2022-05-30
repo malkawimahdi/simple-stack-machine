@@ -1,0 +1,6 @@
+begin 
+   return Id99 ; 
+   printchar x ; 
+end 
+fun _my$Foo_ ( ) { 
+} 

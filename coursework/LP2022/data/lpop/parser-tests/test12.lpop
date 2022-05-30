@@ -1,0 +1,7 @@
+begin 
+   z = x ; 
+   printint -1 ; 
+   _Algernon_ = 1 ; 
+   printint -1 ; 
+   printchar _$$ ; 
+end 

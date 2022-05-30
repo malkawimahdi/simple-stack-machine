@@ -1,0 +1,8 @@
+begin
+  b = 1;
+  if (b) then
+    printint 123;
+  else
+    printint 567;
+  endif
+end

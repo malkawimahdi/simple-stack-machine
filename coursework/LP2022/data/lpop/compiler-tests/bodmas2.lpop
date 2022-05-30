@@ -1,0 +1,8 @@
+begin
+   printint 2 + 3 * 4 / 6 - 9 < -4 == 1 <= 2;
+   printchar 13; printchar 10;
+   printint (2 + 3) * (4 / 6 - 9 < -4 == 1 <= 2);
+   printchar 13; printchar 10;
+   printint ((((2 + ((3 * 4) / 6)) - 9) < -4) == 1) <= 2;
+   printchar 13; printchar 10;
+end

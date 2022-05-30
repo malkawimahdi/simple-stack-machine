@@ -1,0 +1,12 @@
+begin 
+   if ( 235 ) then 
+      z = 221 ; 
+   else 
+   endif 
+   printchar iD0 / ( 921 ) ; 
+   Id99 = _a ; 
+   if ( 829 ) then 
+   else 
+   endif 
+   printint iD0 ; 
+end 

@@ -1,0 +1,13 @@
+begin 
+   printchar 90 == _Algernon_ ; 
+   printint 532 + 1 ; 
+   iD0 = 89 == ( -68 + 0 ) ; 
+   printint 902 * Id99 ; 
+   printchar x * 1 ; 
+   iD0 = ( 321 ) * -1 ; 
+   printchar 43 ; 
+   printchar x ; 
+   printint 914 ; 
+   while ( 194 ) do 
+   done 
+end 

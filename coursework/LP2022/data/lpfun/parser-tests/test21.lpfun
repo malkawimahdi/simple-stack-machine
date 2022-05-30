@@ -1,0 +1,10 @@
+begin 
+   printchar bar ( ) == iD0 ; 
+   printint _Algernon_ ; 
+   return -148 ; 
+end 
+fun laLa ( iD0 , __ , _$$ , _$$ , _Algernon_ ) { 
+   printint 641 ; 
+} 
+fun foo ( ) { 
+} 

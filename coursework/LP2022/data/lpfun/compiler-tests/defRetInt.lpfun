@@ -1,0 +1,12 @@
+begin
+   main();
+end
+
+fun main() {
+   printint foo(0);
+   printint foo(99);
+}
+
+fun foo(n) {
+   if (0 == n) then return 7; else endif
+}

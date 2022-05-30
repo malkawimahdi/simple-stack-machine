@@ -1,0 +1,45 @@
+begin 
+   _my$Foo_ ( ( 1 + foo ( ) ) - ( 238 ) , 515 , 1 ) ; 
+   printint ( 443 ) * 855 ; 
+   printint Y / 96 ; 
+   if ( ( foo ( ) == ( x__ ) ) == iD0 ) then 
+      printint 605 ; 
+      printint 66 ; 
+      printchar 58 ; 
+      printchar 56 ; 
+   else 
+      return -1 ; 
+      printint x <= _my$Foo_ ( x__ ) ; 
+      if ( Id99 ) then 
+         Y = 0 ; 
+         printint _a ; 
+      else 
+      endif 
+      printint -1 ; 
+      printchar z ; 
+      printint 856 ; 
+      printint -1 ; 
+   endif 
+   printint _a == 537 ; 
+   while ( ( Y ) ) do 
+      printint 1 ; 
+   done 
+end 
+fun laLa ( x ) { 
+   if ( x__ ) then 
+   else 
+   endif 
+   printchar _Algernon_ ; 
+} 
+fun _my$Foo_ ( ) { 
+} 
+fun fuBar1 ( ) { 
+} 
+fun g ( ) { 
+} 
+fun bar ( ) { 
+} 
+fun f ( ) { 
+} 
+fun _my$Foo_ ( ) { 
+} 

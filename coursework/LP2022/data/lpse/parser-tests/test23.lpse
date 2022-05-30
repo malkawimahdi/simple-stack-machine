@@ -1,0 +1,14 @@
+begin 
+   printchar Id99 == 256 ; 
+   while ( xx$7 ) do 
+      if ( 861 ) then 
+      else 
+         printchar 101 ; 
+         printchar Id99 ; 
+         printint Id99 ; 
+      endif 
+   done 
+   if ( x ) then 
+   else 
+   endif 
+end 

@@ -1,0 +1,5 @@
+begin 
+   return 321 ; 
+   printchar 66 <= 1 ; 
+   printint 1 ; 
+end 

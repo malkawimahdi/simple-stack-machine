@@ -1,0 +1,8 @@
+begin
+   x = 21;
+   while (0 <= x) do
+      printint x;
+      printchar 13; printchar 10;
+      x = x - 1;
+   done
+end

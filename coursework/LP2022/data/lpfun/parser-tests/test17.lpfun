@@ -1,0 +1,7 @@
+begin 
+   printchar _$$ ; 
+end 
+fun f ( ) { 
+} 
+fun bar ( _Algernon_ ) { 
+} 

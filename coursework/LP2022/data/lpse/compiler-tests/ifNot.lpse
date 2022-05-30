@@ -1,0 +1,9 @@
+begin
+  x = -9;
+  nonNegative = 1 <= x;
+  if (nonNegative == 0) then
+    printint -1;
+  else
+    printint 1;
+  endif
+end

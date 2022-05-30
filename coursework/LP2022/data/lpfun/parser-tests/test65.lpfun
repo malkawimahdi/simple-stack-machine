@@ -1,0 +1,134 @@
+begin 
+   if ( fuBar1 ( 190 ) < 564 ) then 
+      printint -248 < x ; 
+      return 485 / x__ ; 
+      if ( 220 ) then 
+         printchar _$$ ; 
+      else 
+      endif 
+      return _my$Foo_ ( iD0 ) == 120 ; 
+      return xx$7 ; 
+   else 
+      return foo ( ) ; 
+   endif 
+   while ( ( ( 860 ) == g ( Id99 ) ) <= Y ) do 
+      while ( 753 + ( -104 <= ( Y ) ) ) do 
+         while ( -1 ) do 
+            printint _Algernon_ ; 
+         done 
+         while ( iD0 ) do 
+            return x__ ; 
+            if ( 767 ) then 
+            else 
+               if ( 161 ) then 
+               else 
+               endif 
+               printchar 103 ; 
+            endif 
+         done 
+         printchar x__ ; 
+         printint xx$7 ; 
+         printint Y ; 
+      done 
+      _a = 546 == -98 ; 
+      printchar xx$7 <= ( -1 * ( _$$ ) ) ; 
+      while ( ( _Algernon_ ) * x ) do 
+      done 
+      return g ( iD0 , Y , x ) < 84 ; 
+      if ( __ + Id99 ) then 
+         printint x / _Algernon_ ; 
+         if ( laLa ( _a , -106 ) - 475 ) then 
+            printchar 107 * x ; 
+            while ( iD0 ) do 
+               printint _$$ ; 
+               return _$$ ; 
+            done 
+            printchar xx$7 <= -90 ; 
+         else 
+            if ( x < _a ) then 
+            else 
+               return xx$7 ; 
+            endif 
+            laLa ( ) ; 
+         endif 
+         printchar 82 ; 
+         printchar x__ ; 
+         printchar 97 ; 
+      else 
+         while ( _Algernon_ ) do 
+            return 7 ; 
+         done 
+      endif 
+      return 599 <= xx$7 ; 
+   done 
+   printint -1 ; 
+   printchar 48 < 486 ; 
+   printchar 96 == foo ( ) ; 
+   printchar 115 ; 
+   _a = laLa ( 746 ) ; 
+   printint -206 ; 
+   printint 761 ; 
+end 
+fun laLa ( __ , x ) { 
+   return z * Y ; 
+   xx$7 = 1 ; 
+   if ( _a ) then 
+   else 
+   endif 
+} 
+fun bar ( xx$7 , Id99 , xx$7 , Id99 , _Algernon_ , _a ) { 
+   printint ( 123 / 0 ) < g ( 780 , 0 ) ; 
+   while ( g ( ) - xx$7 ) do 
+      printint 0 ; 
+      foo ( 729 , ( 307 ) ) ; 
+      _a = xx$7 ; 
+      if ( _Algernon_ ) then 
+         while ( -1 + iD0 ) do 
+            return 812 ; 
+         done 
+         printint 0 ; 
+         printchar 76 ; 
+      else 
+      endif 
+      printchar iD0 ; 
+   done 
+   _a = ( -143 ) < 825 ; 
+   return -1 ; 
+} 
+fun bar ( _a , _a , x , __ ) { 
+   while ( ( Y < 1 ) * ( x ) ) do 
+      printchar 54 ; 
+      xx$7 = 735 ; 
+   done 
+   Y = iD0 ; 
+   return iD0 ; 
+   while ( 163 ) do 
+   done 
+   if ( _$$ ) then 
+   else 
+      printint __ ; 
+   endif 
+   printchar Id99 ; 
+   printint Id99 ; 
+   printchar 41 ; 
+} 
+fun fuBar1 ( iD0 , Y , Y , __ ) { 
+   printint bar ( 1 == laLa ( _Algernon_ ) , ( bar ( ) ) == Id99 , 765 ) <= _my$Foo_ ( ) ; 
+   return 11 ; 
+} 
+fun bar ( iD0 , Y , xx$7 ) { 
+   while ( x__ - ( Y ) ) do 
+      if ( 691 - 1 ) then 
+         printchar _$$ ; 
+      else 
+      endif 
+      printint xx$7 ; 
+      return -10 ; 
+   done 
+   printchar 37 + xx$7 ; 
+   return xx$7 ; 
+} 
+fun g ( _a ) { 
+} 
+fun bar ( ) { 
+} 

@@ -1,0 +1,7 @@
+begin
+  printchar 72;
+  printchar 101;
+  printchar 108;
+  printchar 108;
+  printchar 111;
+end

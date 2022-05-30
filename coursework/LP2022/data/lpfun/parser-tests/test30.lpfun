@@ -1,0 +1,26 @@
+begin 
+   if ( _Algernon_ <= _$$ ) then 
+      return z ; 
+   else 
+      while ( z / -90 ) do 
+         return -1 ; 
+         printint _Algernon_ ; 
+      done 
+      printchar 125 ; 
+      return -134 ; 
+      iD0 = -65 ; 
+   endif 
+   printint x ; 
+end 
+fun bar ( iD0 , _$$ ) { 
+   if ( -1 ) then 
+      return z ; 
+   else 
+      return 161 ; 
+   endif 
+   printchar 38 ; 
+} 
+fun bar ( ) { 
+} 
+fun bar ( ) { 
+} 

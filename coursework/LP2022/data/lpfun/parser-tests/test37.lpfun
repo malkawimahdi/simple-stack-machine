@@ -1,0 +1,21 @@
+begin 
+   return 178 * laLa ( iD0 , iD0 , 187 ) ; 
+   g ( 394 ) ; 
+   while ( Id99 / xx$7 ) do 
+      printchar 51 ; 
+      return 1 ; 
+   done 
+   return 876 ; 
+   printint -154 ; 
+end 
+fun laLa ( _$$ , _Algernon_ ) { 
+   printchar 122 <= __ ; 
+   return _Algernon_ ; 
+   printint 1 ; 
+} 
+fun laLa ( ) { 
+} 
+fun bar ( ) { 
+} 
+fun _my$Foo_ ( ) { 
+} 

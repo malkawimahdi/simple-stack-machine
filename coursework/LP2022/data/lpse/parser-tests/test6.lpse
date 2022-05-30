@@ -1,0 +1,4 @@
+begin 
+   printchar 114 ; 
+   printchar xx$7 ; 
+end 

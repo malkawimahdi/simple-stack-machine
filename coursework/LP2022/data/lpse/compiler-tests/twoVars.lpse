@@ -1,0 +1,5 @@
+begin
+  x = 800;
+  y = 76;
+  printint x + y;
+end

@@ -1,0 +1,36 @@
+begin 
+   printchar Y ; 
+   printint __ ; 
+end 
+fun _my$Foo_ ( __ , iD0 , _a , __ , x , iD0 , iD0 ) { 
+   return g ( iD0 , Id99 , 0 , iD0 ) < -197 ; 
+   if ( f ( _$$ ) < 920 ) then 
+      while ( z ) do 
+      done 
+      printint -1 ; 
+      printchar 81 ; 
+   else 
+      printchar ( _$$ ) ; 
+      printint 330 ; 
+   endif 
+   if ( bar ( ) + laLa ( ) ) then 
+      printint Y ; 
+   else 
+      _a = z ; 
+      fuBar1 ( ) ; 
+      printchar 75 ; 
+      return -75 ; 
+   endif 
+   return -45 ; 
+   while ( ( xx$7 ) == -80 ) do 
+      printint _Algernon_ ; 
+   done 
+} 
+fun _my$Foo_ ( z , xx$7 , _$$ , z ) { 
+   printint ( -31 ) * x__ ; 
+} 
+fun g ( ) { 
+   printint -170 ; 
+} 
+fun bar ( ) { 
+} 

@@ -1,0 +1,13 @@
+begin
+   printint 0;
+   main(1);
+   printint 0;
+end
+
+fun main(b) {
+  if (b) then
+    printint 123;
+  else
+    printint 567;
+  endif
+}

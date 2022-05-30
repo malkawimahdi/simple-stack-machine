@@ -1,0 +1,9 @@
+begin 
+   if ( _Algernon_ ) then 
+   else 
+   endif 
+   printchar 73 ; 
+   printchar xx$7 ; 
+   printchar Id99 ; 
+   printchar 119 ; 
+end 

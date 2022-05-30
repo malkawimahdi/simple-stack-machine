@@ -1,0 +1,7 @@
+begin
+  if (1) then
+    printint 1;
+  else
+    printint 0;
+  endif
+end

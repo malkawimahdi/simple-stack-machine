@@ -1,0 +1,7 @@
+begin 
+   printint _$$ ; 
+   printchar 37 ; 
+   printint _Algernon_ ; 
+   printint 879 ; 
+   printchar 71 ; 
+end 

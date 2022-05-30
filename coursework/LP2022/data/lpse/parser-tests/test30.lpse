@@ -1,0 +1,18 @@
+begin 
+   printint z * iD0 ; 
+   if ( x__ ) then 
+      if ( z ) then 
+      else 
+      endif 
+   else 
+   endif 
+   while ( ( 300 + _a ) <= x ) do 
+      while ( iD0 + ( _Algernon_ ) ) do 
+         while ( 1 ) do 
+         done 
+      done 
+      printchar 49 ; 
+   done 
+   printchar __ ; 
+   printchar 118 ; 
+end 

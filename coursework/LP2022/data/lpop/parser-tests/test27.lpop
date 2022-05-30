@@ -1,0 +1,14 @@
+begin 
+   printchar z ; 
+   _a = _$$ ; 
+   if ( iD0 ) then 
+      printchar iD0 ; 
+   else 
+      printint 722 ; 
+   endif 
+   printchar 69 ; 
+   printint -124 ; 
+   printint 262 ; 
+   while ( -154 ) do 
+   done 
+end 

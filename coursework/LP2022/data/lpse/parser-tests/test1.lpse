@@ -1,0 +1,4 @@
+begin 
+   printchar x ; 
+   printchar 48 ; 
+end 

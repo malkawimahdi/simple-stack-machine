@@ -1,0 +1,4 @@
+begin 
+   Id99 = x ; 
+   printint Y ; 
+end 

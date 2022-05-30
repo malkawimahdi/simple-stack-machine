@@ -1,0 +1,9 @@
+begin 
+   printchar _$$ ; 
+end 
+fun foo ( ) { 
+} 
+fun bar ( ) { 
+} 
+fun fuBar1 ( ) { 
+} 

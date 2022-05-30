@@ -1,0 +1,17 @@
+begin
+  x = 1;
+  i = 0;
+  while (i < 3) do
+    j = i;
+    while (j < 3) do
+      if ((j - i) < 2) then
+        x = x + (i * j);
+      else
+        x = x - j;
+      endif
+      j = j + 1;
+    done
+    i = i + 1;
+  done
+  printint x;
+end

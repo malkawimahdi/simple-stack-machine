@@ -1,0 +1,16 @@
+begin 
+   while ( _a ) do 
+   done 
+   if ( 741 ) then 
+   else 
+   endif 
+   printint z ; 
+   if ( __ ) then 
+      printchar x__ ; 
+      printint Y ; 
+      printint x ; 
+   else 
+      printchar iD0 ; 
+   endif 
+   printchar 37 ; 
+end 

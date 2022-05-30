@@ -1,0 +1,9 @@
+begin
+  x = 99;
+  y = 3;
+  if (x < y) then
+    printint y;
+  else
+    printint x;
+  endif
+end

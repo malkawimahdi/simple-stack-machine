@@ -1,0 +1,34 @@
+begin 
+   printint ( -1 <= x ) - laLa ( xx$7 ) ; 
+   if ( _a <= 727 ) then 
+      x__ = x ; 
+      x = z ; 
+      if ( -89 == x__ ) then 
+      else 
+      endif 
+      while ( 672 ) do 
+         printint 1 ; 
+      done 
+      printint -261 ; 
+   else 
+      if ( -108 < 1 ) then 
+      else 
+         _my$Foo_ ( ) ; 
+      endif 
+      while ( -1 - f ( ) ) do 
+      done 
+      return 46 ; 
+   endif 
+   f ( ) ; 
+   while ( z - 1 ) do 
+      printchar 121 ; 
+      printchar _a ; 
+   done 
+   x = f ( 0 ) * z ; 
+   g ( x__ < ( x__ ) , x ) ; 
+   return 0 ; 
+   printchar Id99 ; 
+end 
+fun g ( Y ) { 
+   return ( 1 ) < foo ( _Algernon_ ) ; 
+} 

@@ -1,0 +1,9 @@
+begin
+   foo();
+   return 77;
+   foo();
+end
+
+fun foo() {
+   printint 123456;
+}

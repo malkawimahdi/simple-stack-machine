@@ -1,0 +1,15 @@
+begin
+   main(9);
+end
+
+fun main(x) {
+  printint fac(x);
+}
+
+fun fac(x) {
+  if (x < 1) then
+    return 1;
+  else
+    return x * (fac(x - 1));
+  endif
+}

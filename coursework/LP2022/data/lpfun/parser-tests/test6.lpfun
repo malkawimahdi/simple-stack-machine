@@ -1,0 +1,7 @@
+begin 
+   if ( 0 ) then 
+   else 
+   endif 
+end 
+fun f ( ) { 
+} 

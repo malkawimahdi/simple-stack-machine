@@ -1,0 +1,38 @@
+begin 
+   while ( 1 <= 819 ) do 
+      printint -1 * ( 1 * _a ) ; 
+      return 1 ; 
+   done 
+   while ( x ) do 
+      _my$Foo_ ( x ) ; 
+      printint 872 / 213 ; 
+      if ( 849 ) then 
+      else 
+         return xx$7 ; 
+      endif 
+   done 
+   bar ( 12 / 437 , x / -198 , 798 , 451 <= 0 , -1 ) ; 
+   x__ = __ <= -1 ; 
+   while ( 1 - _a ) do 
+      iD0 = 0 ; 
+      printint _$$ ; 
+      printchar _a ; 
+      return Id99 ; 
+   done 
+   if ( x__ ) then 
+   else 
+   endif 
+   if ( -16 ) then 
+   else 
+      printchar Id99 ; 
+      printint -1 ; 
+   endif 
+end 
+fun f ( ) { 
+   printint _Algernon_ * 1 ; 
+   printchar 54 ; 
+   printint xx$7 ; 
+} 
+fun fuBar1 ( x , z , Id99 ) { 
+   return x - f ( ) ; 
+} 

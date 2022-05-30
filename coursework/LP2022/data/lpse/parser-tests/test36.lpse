@@ -1,0 +1,22 @@
+begin 
+   printchar ( -29 == 55 ) + _a ; 
+   if ( -94 == -20 ) then 
+      while ( _$$ ) do 
+         printchar 102 ; 
+      done 
+      while ( 479 ) do 
+         printint 921 ; 
+         printint 621 ; 
+         printchar 75 ; 
+      done 
+      if ( 846 ) then 
+         printint _$$ ; 
+      else 
+      endif 
+   else 
+      printchar 38 ; 
+      printchar 117 ; 
+      printint x__ ; 
+   endif 
+   printint xx$7 ; 
+end 

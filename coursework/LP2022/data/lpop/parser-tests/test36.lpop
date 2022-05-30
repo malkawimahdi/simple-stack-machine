@@ -1,0 +1,12 @@
+begin 
+   printchar Y < 0 ; 
+   printchar 60 - 410 * 533 + ( 446 ) + ( 0 ) * Y < 0 ; 
+   if ( _Algernon_ ) then 
+      while ( _$$ ) do 
+      done 
+   else 
+      printchar Y ; 
+   endif 
+   xx$7 = 720 == __ ; 
+   printint -1 ; 
+end 

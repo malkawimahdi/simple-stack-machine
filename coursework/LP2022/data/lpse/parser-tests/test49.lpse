@@ -1,0 +1,42 @@
+begin 
+   printint 7 / 282 ; 
+   printint 1 < _Algernon_ ; 
+   if ( 464 == iD0 ) then 
+      printchar ( -1 <= 583 ) < ( 523 == -261 ) ; 
+      _Algernon_ = ( ( 1 ) * _a ) <= 65 ; 
+      printchar 104 ; 
+      printint x ; 
+   else 
+      while ( __ ) do 
+         printchar x__ ; 
+      done 
+      printint 830 ; 
+   endif 
+   if ( -255 == 557 ) then 
+      printchar 81 ; 
+      printchar 81 ; 
+   else 
+      printchar x__ + ( 366 <= Y ) ; 
+      printint x__ * 890 ; 
+      printint 384 ; 
+   endif 
+   printint Y ; 
+   while ( Y - _$$ ) do 
+      printchar 55 ; 
+      if ( -142 ) then 
+      else 
+         printint -95 ; 
+         printint -159 ; 
+      endif 
+      printchar 48 ; 
+      printchar 119 ; 
+      printchar 71 ; 
+   done 
+   if ( __ ) then 
+   else 
+      printchar x ; 
+      printchar z ; 
+      printchar 125 ; 
+   endif 
+   printchar x ; 
+end 

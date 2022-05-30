@@ -1,0 +1,17 @@
+begin 
+   printint -1 + foo ( ) ; 
+   printint _$$ * z ; 
+   if ( Id99 ) then 
+      printchar 95 ; 
+   else 
+   endif 
+   return _a ; 
+end 
+fun foo ( ) { 
+} 
+fun _my$Foo_ ( ) { 
+} 
+fun bar ( ) { 
+} 
+fun f ( ) { 
+} 

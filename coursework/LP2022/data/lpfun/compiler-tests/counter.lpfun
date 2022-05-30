@@ -1,0 +1,11 @@
+begin
+   main(11);
+end
+
+fun main(x) {
+  while ((0 - 1) < x) do
+    printint x;
+    printchar 32;
+    x = x - 1;
+  done
+}

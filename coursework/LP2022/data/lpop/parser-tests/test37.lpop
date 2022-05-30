@@ -1,0 +1,13 @@
+begin 
+   z = x - ( 540 ) + 565 - iD0 + 828 < iD0 - 759 * ( 17 ) - z < x__ ; 
+   while ( _Algernon_ - __ ) do 
+      printchar z ; 
+      printchar 37 ; 
+   done 
+   if ( 1 ) then 
+      printchar 109 ; 
+   else 
+      printint 828 ; 
+   endif 
+   printchar iD0 ; 
+end 

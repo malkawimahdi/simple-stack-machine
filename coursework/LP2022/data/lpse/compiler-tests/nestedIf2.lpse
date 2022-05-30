@@ -1,0 +1,22 @@
+begin
+  if (2 == 3) then
+    printint 0;
+    if ((1 / 0) == (1 / 0)) then
+      printint 1;
+    else
+      printint 0;
+    endif
+  else
+    printint 1;
+    if (1) then
+      printint 1;
+    else
+      printint 0;
+      if ((1 / 0) < (1 / 0)) then
+        printint 0;
+      else
+        printint 1;
+      endif
+    endif
+  endif
+end

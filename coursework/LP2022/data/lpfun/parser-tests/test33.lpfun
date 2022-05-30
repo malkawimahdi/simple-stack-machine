@@ -1,0 +1,18 @@
+begin 
+   while ( 1 + laLa ( x ) ) do 
+   done 
+end 
+fun foo ( ) { 
+   printchar 81 ; 
+   if ( Id99 ) then 
+   else 
+   endif 
+} 
+fun g ( x__ , _$$ , __ , __ , z ) { 
+   printchar _a ; 
+} 
+fun f ( _Algernon_ , _a ) { 
+} 
+fun foo ( ) { 
+   printint 618 ; 
+} 

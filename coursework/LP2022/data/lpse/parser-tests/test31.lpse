@@ -1,0 +1,15 @@
+begin 
+   printint x - x__ ; 
+   while ( _Algernon_ < 0 ) do 
+      printint ( 0 ) <= ( x__ ) ; 
+      x = ( __ ) ; 
+      if ( -25 ) then 
+         printchar 112 ; 
+      else 
+      endif 
+      printchar 67 ; 
+   done 
+   printint iD0 <= 754 ; 
+   _$$ = _Algernon_ ; 
+   printchar 124 ; 
+end 

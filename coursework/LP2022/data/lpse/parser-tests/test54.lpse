@@ -1,0 +1,84 @@
+begin 
+   if ( ( __ / -193 ) + __ ) then 
+      xx$7 = ( Id99 ) + 1 ; 
+      if ( Y ) then 
+         if ( -236 ) then 
+         else 
+            printchar _Algernon_ ; 
+            printchar 54 ; 
+            printint 233 ; 
+            printint 707 ; 
+            printint _Algernon_ ; 
+         endif 
+         x = _Algernon_ ; 
+         printint 319 ; 
+      else 
+         if ( Id99 * __ ) then 
+            printchar _Algernon_ ; 
+            if ( __ ) then 
+            else 
+               if ( _$$ * -1 ) then 
+                  printint 296 ; 
+               else 
+                  printchar iD0 ; 
+               endif 
+               printint _a ; 
+            endif 
+            printint -284 ; 
+         else 
+            printint __ == xx$7 ; 
+            printchar 43 ; 
+         endif 
+         printchar iD0 == 281 ; 
+         printchar 121 ; 
+         printchar x ; 
+         printint 907 + iD0 ; 
+         printchar 83 - xx$7 ; 
+         printint -153 ; 
+      endif 
+      printint -262 - ( 289 ) ; 
+      z = -1 + ( 276 ) ; 
+      printint -284 ; 
+   else 
+      printint _$$ / ( 639 ) ; 
+      printint iD0 ; 
+      if ( -116 ) then 
+      else 
+      endif 
+      z = 660 ; 
+   endif 
+   xx$7 = ( _$$ <= ( 276 < 661 ) ) / 0 ; 
+   if ( _$$ ) then 
+      printint __ ; 
+   else 
+      printint _a ; 
+      printint Y ; 
+   endif 
+   if ( ( -1 ) == ( 468 ) ) then 
+      Id99 = ( __ ) / x__ ; 
+   else 
+      x__ = __ < ( x__ ) ; 
+      while ( ( _$$ < x__ ) / ( x ) ) do 
+         printint z ; 
+         printint Id99 ; 
+         printint z ; 
+      done 
+      if ( Y ) then 
+         _Algernon_ = 876 + _$$ ; 
+      else 
+         _Algernon_ = xx$7 ; 
+         printint Y ; 
+         if ( 824 ) then 
+         else 
+         endif 
+         if ( -56 ) then 
+         else 
+         endif 
+      endif 
+      printint Id99 ; 
+      while ( -49 ) do 
+         printint -212 ; 
+         printchar x ; 
+      done 
+   endif 
+end 

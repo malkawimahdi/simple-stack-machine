@@ -1,0 +1,14 @@
+begin 
+   while ( xx$7 ) do 
+      printchar x ; 
+      printchar x__ ; 
+   done 
+   printint ( -271 ) ; 
+   printchar 107 ; 
+   if ( 105 ) then 
+   else 
+   endif 
+   if ( x ) then 
+   else 
+   endif 
+end 

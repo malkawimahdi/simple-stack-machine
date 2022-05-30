@@ -1,0 +1,7 @@
+begin 
+   foo ( ) ; 
+end 
+fun _my$Foo_ ( ) { 
+} 
+fun f ( ) { 
+} 

@@ -1,0 +1,9 @@
+begin 
+   bar ( -1 , Id99 ) ; 
+   xx$7 = -188 ; 
+   f ( ) ; 
+end 
+fun foo ( iD0 , Y ) { 
+   printint -80 ; 
+   printint z ; 
+} 

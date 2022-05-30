@@ -1,0 +1,14 @@
+begin 
+   if ( iD0 ) then 
+      printint _a ; 
+      printint -1 ; 
+      printint x ; 
+   else 
+      printint Y ; 
+      z = xx$7 ; 
+      printchar x__ ; 
+   endif 
+   printint z ; 
+   printint 1 ; 
+   printint 482 ; 
+end 

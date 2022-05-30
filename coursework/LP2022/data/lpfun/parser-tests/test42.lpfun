@@ -1,0 +1,38 @@
+begin 
+   if ( 397 < ( 374 ) ) then 
+      while ( 171 - bar ( iD0 ) ) do 
+         printint ( _$$ < Id99 ) + x ; 
+         printchar 57 ; 
+         return 125 ; 
+      done 
+      printint xx$7 ; 
+      _$$ = ( -274 ) == 110 ; 
+      printchar z ; 
+   else 
+      printchar g ( ) ; 
+      if ( ( ( xx$7 ) == -1 ) * _my$Foo_ ( 673 , -1 ) ) then 
+         printchar 74 - -1 ; 
+         printint 119 ; 
+         while ( iD0 ) do 
+            return 0 ; 
+            printint x ; 
+         done 
+      else 
+         return 754 ; 
+      endif 
+      return 301 ; 
+      printint 565 ; 
+   endif 
+   printchar 106 ; 
+   return -1 ; 
+end 
+fun foo ( Y ) { 
+} 
+fun foo ( __ ) { 
+} 
+fun fuBar1 ( _$$ ) { 
+   printchar iD0 ; 
+   printint -110 ; 
+} 
+fun _my$Foo_ ( z ) { 
+} 

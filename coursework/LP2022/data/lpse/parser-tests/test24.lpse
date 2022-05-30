@@ -1,0 +1,6 @@
+begin 
+   printint _Algernon_ <= _a ; 
+   printchar 82 == _a ; 
+   _$$ = _Algernon_ + z ; 
+   printchar 102 < 391 ; 
+end 

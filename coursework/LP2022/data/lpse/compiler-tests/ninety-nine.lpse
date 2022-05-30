@@ -1,0 +1,3 @@
+begin
+  printint 99;
+end

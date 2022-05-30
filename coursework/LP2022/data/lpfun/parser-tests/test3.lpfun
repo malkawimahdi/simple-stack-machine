@@ -1,0 +1,5 @@
+begin 
+   printint __ ; 
+end 
+fun fuBar1 ( ) { 
+} 

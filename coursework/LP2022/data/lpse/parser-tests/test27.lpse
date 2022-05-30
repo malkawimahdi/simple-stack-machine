@@ -1,0 +1,12 @@
+begin 
+   while ( x__ - ( ( -1 ) <= 1 ) ) do 
+      printint 594 ; 
+      printint 570 ; 
+      while ( x__ ) do 
+         printchar z ; 
+      done 
+      iD0 = iD0 ; 
+      printint Y ; 
+   done 
+   printint xx$7 ; 
+end 

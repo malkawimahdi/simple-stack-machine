@@ -1,0 +1,3 @@
+begin
+  printint 627;
+end

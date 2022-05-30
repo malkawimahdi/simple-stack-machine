@@ -1,0 +1,11 @@
+begin 
+   printint Id99 ; 
+   return _$$ ; 
+   printchar 102 ; 
+end 
+fun laLa ( ) { 
+} 
+fun _my$Foo_ ( ) { 
+} 
+fun g ( ) { 
+} 

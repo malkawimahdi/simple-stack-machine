@@ -1,0 +1,6 @@
+begin 
+   printint _Algernon_ ; 
+   printint 778 ; 
+   while ( -1 ) do 
+   done 
+end 

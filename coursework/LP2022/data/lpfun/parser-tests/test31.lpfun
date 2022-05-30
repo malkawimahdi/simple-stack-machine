@@ -1,0 +1,22 @@
+begin 
+   printchar 124 ; 
+end 
+fun foo ( xx$7 ) { 
+   foo ( ) ; 
+   printchar __ ; 
+   printchar z ; 
+} 
+fun foo ( xx$7 , xx$7 , x ) { 
+   if ( z ) then 
+   else 
+   endif 
+   while ( x ) do 
+   done 
+   printchar 85 ; 
+} 
+fun f ( Y , _Algernon_ , __ ) { 
+   z = 1 ; 
+   return -301 ; 
+} 
+fun foo ( ) { 
+} 

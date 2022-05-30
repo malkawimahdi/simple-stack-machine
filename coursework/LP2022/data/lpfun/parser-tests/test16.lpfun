@@ -1,0 +1,6 @@
+begin 
+   printint iD0 ; 
+   return 1 ; 
+end 
+fun laLa ( ) { 
+} 

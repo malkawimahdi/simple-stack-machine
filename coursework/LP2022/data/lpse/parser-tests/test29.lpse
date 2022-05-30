@@ -1,0 +1,13 @@
+begin 
+   while ( Id99 < x ) do 
+   done 
+   if ( xx$7 ) then 
+      printint 283 ; 
+      printint x ; 
+      printint -250 ; 
+   else 
+      while ( _Algernon_ ) do 
+      done 
+   endif 
+   printint iD0 ; 
+end 

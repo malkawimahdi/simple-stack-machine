@@ -1,0 +1,12 @@
+begin 
+   while ( -1 ) do 
+      while ( x ) do 
+      done 
+   done 
+   printchar 57 ; 
+   printchar _a ; 
+   printint 781 ; 
+   printint 0 ; 
+   _$$ = Id99 ; 
+   printchar x__ ; 
+end 

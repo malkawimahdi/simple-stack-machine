@@ -1,0 +1,82 @@
+begin 
+   printchar 78 / -264 ; 
+   while ( ( xx$7 / ( ( ( -96 ) * ( _$$ ) ) < f ( 886 ) ) ) + 0 ) do 
+      printint 1 + __ ; 
+      while ( 314 * laLa ( 0 , Y ) ) do 
+         printchar __ ; 
+         printchar iD0 + 38 ; 
+         printint 1 ; 
+         return 903 ; 
+         while ( 121 - 565 ) do 
+            while ( 792 ) do 
+            done 
+         done 
+      done 
+      printchar x ; 
+      printchar iD0 ; 
+   done 
+   laLa ( ) ; 
+end 
+fun g ( xx$7 , xx$7 ) { 
+   printchar x__ ; 
+   printchar ( -31 ) ; 
+   if ( 400 ) then 
+      while ( x ) do 
+      done 
+      f ( Y ) ; 
+      printint xx$7 ; 
+      while ( 603 ) do 
+      done 
+   else 
+      if ( 880 - ( -1 ) ) then 
+         printint -1 ; 
+         printint 20 ; 
+         return 471 ; 
+         printint _$$ ; 
+      else 
+         return -238 - _$$ ; 
+         printchar x__ ; 
+         printchar x ; 
+      endif 
+      while ( -1 ) do 
+      done 
+      printint Y ; 
+      if ( 279 ) then 
+         return iD0 ; 
+      else 
+         while ( z ) do 
+            bar ( ) ; 
+            printint -33 ; 
+            return _a ; 
+            return __ ; 
+         done 
+         printchar 110 ; 
+         printchar 76 ; 
+      endif 
+      printint x__ ; 
+      printchar 81 + xx$7 ; 
+      printchar 109 ; 
+      return __ ; 
+      printint 0 ; 
+      return _$$ ; 
+   endif 
+   laLa ( ) ; 
+   printchar _a ; 
+} 
+fun g ( _a , iD0 , xx$7 , xx$7 , x__ ) { 
+   while ( 1 ) do 
+      return ( fuBar1 ( ) <= z ) < x ; 
+      printint _a / z ; 
+      return 135 ; 
+      printchar z ; 
+   done 
+   printchar iD0 == ( -1 ) ; 
+} 
+fun foo ( ) { 
+} 
+fun f ( ) { 
+} 
+fun f ( ) { 
+} 
+fun laLa ( ) { 
+} 

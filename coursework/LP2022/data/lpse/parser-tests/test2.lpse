@@ -1,0 +1,4 @@
+begin 
+   printint xx$7 ; 
+   printchar _a ; 
+end 

@@ -1,0 +1,7 @@
+begin 
+   if ( xx$7 ) then 
+      printchar 97 ; 
+   else 
+   endif 
+   printint 708 ; 
+end 

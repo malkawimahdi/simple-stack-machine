@@ -1,0 +1,4 @@
+begin 
+   printchar 34 ; 
+   printint x ; 
+end 

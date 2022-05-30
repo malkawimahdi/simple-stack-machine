@@ -1,0 +1,6 @@
+begin
+  while (0) do
+    printint 3;
+  done
+  printint 113;
+end

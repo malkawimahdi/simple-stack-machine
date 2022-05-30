@@ -1,0 +1,25 @@
+begin 
+   return -1 ; 
+end 
+fun foo ( ) { 
+   return ( __ ) < 379 ; 
+   printchar 91 ; 
+} 
+fun fuBar1 ( Id99 ) { 
+   if ( -1 ) then 
+      printchar 86 ; 
+      printint __ ; 
+   else 
+   endif 
+} 
+fun laLa ( ) { 
+   return 0 ; 
+   printchar Id99 ; 
+   printint x ; 
+} 
+fun g ( ) { 
+} 
+fun fuBar1 ( ) { 
+} 
+fun bar ( ) { 
+} 

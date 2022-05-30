@@ -1,0 +1,25 @@
+begin 
+   while ( _Algernon_ == _Algernon_ ) do 
+      printchar 114 ; 
+      while ( 1 ) do 
+      done 
+      if ( _$$ ) then 
+      else 
+         printchar x ; 
+      endif 
+      printchar 119 ; 
+      if ( 412 ) then 
+      else 
+         printchar __ ; 
+      endif 
+   done 
+   while ( 297 ) do 
+   done 
+   while ( _$$ ) do 
+      printint Y ; 
+      if ( 316 ) then 
+      else 
+      endif 
+   done 
+   printint 728 ; 
+end 

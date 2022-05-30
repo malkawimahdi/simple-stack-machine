@@ -1,0 +1,14 @@
+begin 
+   printint 62 + x ; 
+   printchar 93 == 97 / Y / x__ ; 
+   printint __ <= 0 ; 
+   while ( 79 ) do 
+      printchar _a ; 
+      printchar _a ; 
+      printchar 99 ; 
+   done 
+   while ( __ < z ) do 
+      printchar z ; 
+   done 
+   printchar 62 ; 
+end 

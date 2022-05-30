@@ -1,0 +1,16 @@
+begin 
+   while ( ( -1 < 877 ) * ( 818 < ( x + 487 ) ) ) do 
+      printchar x__ < iD0 ; 
+      printint x__ ; 
+   done 
+   if ( ( xx$7 ) ) then 
+      printchar 96 ; 
+      if ( Id99 ) then 
+         printchar _Algernon_ ; 
+      else 
+      endif 
+      printint 82 ; 
+   else 
+   endif 
+   printchar 67 ; 
+end 

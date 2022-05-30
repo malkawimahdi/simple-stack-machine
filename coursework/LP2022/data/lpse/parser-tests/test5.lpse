@@ -1,0 +1,6 @@
+begin 
+   printint x__ ; 
+   printint -206 ; 
+   printchar x ; 
+   printchar Y ; 
+end 

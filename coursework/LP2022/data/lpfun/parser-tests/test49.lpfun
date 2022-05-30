@@ -1,0 +1,47 @@
+begin 
+   printchar 79 <= __ ; 
+   printint 721 ; 
+   if ( laLa ( ) ) then 
+      foo ( ) ; 
+   else 
+      return _$$ ; 
+   endif 
+   fuBar1 ( z ) ; 
+   return 517 ; 
+   printchar 32 ; 
+   printchar 68 ; 
+end 
+fun g ( __ , _a , Id99 ) { 
+   while ( 571 < f ( ) ) do 
+   done 
+   printchar 107 ; 
+} 
+fun laLa ( Y ) { 
+   f ( ) ; 
+   return Id99 ; 
+} 
+fun _my$Foo_ ( xx$7 , iD0 ) { 
+} 
+fun foo ( x ) { 
+   printchar 106 ; 
+   return -37 ; 
+} 
+fun f ( ) { 
+   printchar 38 ; 
+   if ( 415 ) then 
+   else 
+   endif 
+   printint 657 ; 
+} 
+fun g ( ) { 
+   printint xx$7 ; 
+} 
+fun f ( _$$ ) { 
+   printint 685 ; 
+   printint z ; 
+} 
+fun g ( x ) { 
+   return 311 ; 
+} 
+fun fuBar1 ( ) { 
+} 

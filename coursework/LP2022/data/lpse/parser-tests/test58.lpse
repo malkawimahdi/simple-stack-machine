@@ -1,0 +1,93 @@
+begin 
+   printchar x < iD0 ; 
+   printint ( ( 488 ) / 244 ) + x__ ; 
+   printint ( iD0 ) / __ ; 
+   if ( -1 / _Algernon_ ) then 
+      printchar ( 655 + Id99 ) + _a ; 
+      if ( 0 ) then 
+         if ( Y ) then 
+         else 
+            printchar x ; 
+         endif 
+         if ( _Algernon_ / Y ) then 
+            printint -1 ; 
+         else 
+            printchar 82 ; 
+            x__ = x__ + Id99 ; 
+            printchar 122 ; 
+         endif 
+         xx$7 = Id99 ; 
+      else 
+         printchar _Algernon_ ; 
+      endif 
+      printchar _Algernon_ == iD0 ; 
+      if ( Id99 / ( 752 ) ) then 
+         printchar 89 ; 
+         _Algernon_ = 613 ; 
+         printchar xx$7 ; 
+         if ( _a ) then 
+            printchar 52 ; 
+         else 
+         endif 
+      else 
+         printchar Id99 ; 
+         z = x ; 
+      endif 
+      printchar _$$ ; 
+      if ( __ ) then 
+         while ( _a ) do 
+            printint 0 ; 
+         done 
+         printint Id99 ; 
+         printint x__ ; 
+      else 
+      endif 
+      if ( _$$ - _$$ ) then 
+         printchar 94 ; 
+         x = 763 + _a ; 
+         z = -295 ; 
+         printint Y ; 
+      else 
+         if ( 341 ) then 
+            printint 292 ; 
+            printint _$$ ; 
+         else 
+            printint 129 ; 
+            printint 16 ; 
+         endif 
+         printchar 87 ; 
+      endif 
+      printchar 62 ; 
+   else 
+      while ( ( iD0 < ( iD0 ) ) - ( z < -1 ) ) do 
+         printchar ( -66 ) < _a ; 
+         _a = __ ; 
+         printchar _$$ ; 
+         printint _a ; 
+      done 
+      while ( iD0 + __ ) do 
+         while ( -1 ) do 
+            printchar 55 ; 
+         done 
+         while ( __ ) do 
+         done 
+         printint 578 ; 
+         printint -269 ; 
+      done 
+      printchar 124 ; 
+      printchar Id99 ; 
+      printchar 126 ; 
+   endif 
+   printint 125 * -169 ; 
+   printchar 52 ; 
+   _Algernon_ = 794 ; 
+   if ( -163 ) then 
+   else 
+      printint -1 ; 
+      printint -119 ; 
+   endif 
+   if ( 542 ) then 
+   else 
+   endif 
+   printint _$$ ; 
+end 

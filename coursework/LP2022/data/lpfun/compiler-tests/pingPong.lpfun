@@ -1,0 +1,19 @@
+begin
+   ping(9);
+end
+
+fun ping(x) {
+  printint x;
+  if (0 < x) then
+    pong(x + 1);
+  else
+  endif
+}
+
+fun pong(x) {
+  printint x;
+  if (0 < x) then
+    ping(x - 2);
+  else
+  endif
+}

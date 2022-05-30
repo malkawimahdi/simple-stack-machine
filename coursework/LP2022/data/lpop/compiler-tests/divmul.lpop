@@ -1,0 +1,5 @@
+begin
+   printint 12/3*2; printchar 13; printchar 10;
+   printint 12/(3*2); printchar 13; printchar 10;
+   printint (12/3)*2; printchar 13; printchar 10;
+end

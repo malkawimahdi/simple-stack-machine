@@ -1,0 +1,4 @@
+begin
+  goggle = 777;
+  printint goggle;
+end

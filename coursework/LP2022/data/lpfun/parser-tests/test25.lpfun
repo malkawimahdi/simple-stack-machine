@@ -1,0 +1,13 @@
+begin 
+   printint _$$ ; 
+end 
+fun _my$Foo_ ( _a , _$$ , x__ ) { 
+} 
+fun laLa ( ) { 
+} 
+fun laLa ( ) { 
+} 
+fun fuBar1 ( __ ) { 
+} 
+fun laLa ( ) { 
+} 

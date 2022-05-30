@@ -1,0 +1,11 @@
+begin 
+   return ( 575 ) ; 
+   return xx$7 ; 
+   if ( -1 * ( -45 ) ) then 
+      return 1 ; 
+   else 
+      printint -1 ; 
+      return 1 ; 
+      printchar __ ; 
+   endif 
+end 

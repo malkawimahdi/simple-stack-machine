@@ -1,0 +1,5 @@
+begin 
+   printchar x == xx$7 ; 
+   printint 132 ; 
+   printint _$$ ; 
+end 

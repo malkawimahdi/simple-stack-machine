@@ -1,0 +1,6 @@
+begin 
+   printchar iD0 ; 
+   printint 783 ; 
+   printchar 109 ; 
+   printint z ; 
+end 

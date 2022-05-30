@@ -1,0 +1,14 @@
+begin 
+   x__ = 215 == Y ; 
+   if ( _Algernon_ ) then 
+      printchar _Algernon_ ; 
+      printchar 51 ; 
+      printchar _$$ ; 
+      printchar Y ; 
+   else 
+   endif 
+   xx$7 = __ ; 
+   if ( 0 ) then 
+   else 
+   endif 
+end 

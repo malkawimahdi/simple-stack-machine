@@ -1,0 +1,8 @@
+begin 
+   printint -1 ; 
+   printchar 80 ; 
+   printint x__ ; 
+   if ( -1 ) then 
+   else 
+   endif 
+end 

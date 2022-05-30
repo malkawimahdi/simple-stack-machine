@@ -1,0 +1,46 @@
+begin 
+   printint ( 743 + ( xx$7 + 107 ) ) - ( 13 == ( -162 ) ) ; 
+   while ( -117 == __ ) do 
+      while ( xx$7 < Y ) do 
+         while ( z ) do 
+         done 
+         _Algernon_ = -1 ; 
+         printint 452 ; 
+      done 
+      printchar __ * _a ; 
+      printchar _Algernon_ ; 
+      printchar 106 ; 
+   done 
+   printint _Algernon_ ; 
+   printint _$$ / _a ; 
+   if ( Y ) then 
+      printchar 109 ; 
+      printchar z ; 
+   else 
+      if ( 590 ) then 
+      else 
+         printint 1 ; 
+      endif 
+      if ( iD0 ) then 
+      else 
+         printint 1 ; 
+      endif 
+      while ( 1 ) do 
+         while ( 163 ) do 
+         done 
+         printint 628 ; 
+      done 
+      printchar 50 ; 
+      printint _Algernon_ ; 
+      printchar 50 ; 
+   endif 
+   while ( _$$ ) do 
+      x = 577 == ( 0 ) ; 
+      printchar ( _Algernon_ ) ; 
+   done 
+   printint 520 * Y ; 
+   if ( 439 ) then 
+   else 
+      printchar 41 ; 
+   endif 
+end 

@@ -1,0 +1,12 @@
+begin
+   i = 0;
+   while (i < 5) do
+      main(i);
+      main(0 - i);
+      i = i + 1;
+   done
+end
+
+fun main(x) {
+  printint x;
+}

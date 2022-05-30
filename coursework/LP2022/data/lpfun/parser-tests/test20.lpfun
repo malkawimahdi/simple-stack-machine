@@ -1,0 +1,20 @@
+begin 
+   while ( -1 ) do 
+   done 
+   if ( 201 ) then 
+      return x ; 
+   else 
+      printint 528 ; 
+   endif 
+end 
+fun fuBar1 ( ) { 
+} 
+fun bar ( ) { 
+   printint _a ; 
+} 
+fun fuBar1 ( ) { 
+} 
+fun laLa ( ) { 
+} 
+fun bar ( ) { 
+} 

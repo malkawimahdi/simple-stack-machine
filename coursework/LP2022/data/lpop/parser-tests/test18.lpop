@@ -1,0 +1,3 @@
+begin 
+   printchar 42 - _Algernon_ <= z ; 
+end 

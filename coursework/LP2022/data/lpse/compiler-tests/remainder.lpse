@@ -1,0 +1,6 @@
+begin
+   x = 11;
+   y = 4;
+   r = x - ((x/y) * y);
+   printint r;
+end

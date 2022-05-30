@@ -1,0 +1,23 @@
+begin 
+   Id99 = 1 ; 
+   if ( Y / -172 ) then 
+      iD0 = 1 ; 
+   else 
+      printint __ ; 
+      printchar 72 ; 
+   endif 
+   printint -48 + x__ ; 
+   return _Algernon_ ; 
+   f ( ) ; 
+   printchar _Algernon_ ; 
+end 
+fun g ( _Algernon_ , Y ) { 
+   while ( -1 == xx$7 ) do 
+      printchar Id99 ; 
+   done 
+   Y = Y ; 
+} 
+fun f ( ) { 
+} 
+fun fuBar1 ( ) { 
+} 

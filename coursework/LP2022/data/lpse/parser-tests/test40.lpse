@@ -1,0 +1,29 @@
+begin 
+   Id99 = 697 - x ; 
+   Id99 = ( ( -188 + ( x__ ) ) - _a ) / ( ( ( 813 ) / 1 ) / 670 ) ; 
+   Y = ( x ) == iD0 ; 
+   if ( ( Y - 334 ) <= 813 ) then 
+      printchar 57 + _$$ ; 
+      printchar 112 ; 
+      while ( ( 687 ) * x ) do 
+      done 
+      printint _$$ ; 
+   else 
+      _$$ = xx$7 < 1 ; 
+      printchar iD0 ; 
+      printchar iD0 ; 
+      printint 259 ; 
+      xx$7 = xx$7 ; 
+   endif 
+   while ( 579 ) do 
+      _Algernon_ = -252 ; 
+      printint 0 ; 
+      printchar 117 ; 
+      if ( _Algernon_ ) then 
+      else 
+      endif 
+   done 
+   printchar ( 483 ) == ( ( x ) ) ; 
+   printchar x__ ; 
+   printchar 56 ; 
+end 

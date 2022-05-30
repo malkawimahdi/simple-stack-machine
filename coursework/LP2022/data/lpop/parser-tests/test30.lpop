@@ -1,0 +1,17 @@
+begin 
+   if ( 751 < -304 + 181 / __ / x < iD0 * 0 + 403 <= iD0 <= _$$ ) then 
+      while ( Y ) do 
+      done 
+   else 
+      if ( xx$7 ) then 
+         printint iD0 ; 
+         printint 211 ; 
+         xx$7 = xx$7 ; 
+      else 
+         printchar 113 ; 
+      endif 
+      printchar x__ ; 
+   endif 
+   printchar z ; 
+   printchar 91 ; 
+end 

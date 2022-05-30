@@ -1,0 +1,6 @@
+begin 
+   printchar 84 ; 
+   printint x ; 
+   while ( iD0 ) do 
+   done 
+end 

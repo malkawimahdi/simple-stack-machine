@@ -1,0 +1,7 @@
+begin 
+   while ( 365 ) do 
+   done 
+   printint -1 ; 
+   while ( __ ) do 
+   done 
+end 

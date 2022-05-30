@@ -1,0 +1,6 @@
+begin 
+   printchar iD0 ; 
+   Y = _$$ ; 
+   printint xx$7 ; 
+   printint 346 ; 
+end 

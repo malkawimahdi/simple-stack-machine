@@ -1,0 +1,15 @@
+begin 
+   if ( _$$ ) then 
+      while ( Id99 ) do 
+      done 
+   else 
+      while ( -1 ) do 
+         if ( 1 ) then 
+         else 
+         endif 
+      done 
+   endif 
+   printint 867 ; 
+   printchar 55 ; 
+   printint Id99 ; 
+end 

@@ -1,0 +1,18 @@
+begin 
+   x = -33 * ( __ ) ; 
+   printint -194 / ( Id99 ) ; 
+   printint 773 ; 
+end 
+fun foo ( x__ , Id99 ) { 
+   return 1 ; 
+   f ( ) ; 
+} 
+fun bar ( z ) { 
+   printchar 39 ; 
+} 
+fun f ( ) { 
+} 
+fun g ( ) { 
+} 
+fun g ( ) { 
+} 

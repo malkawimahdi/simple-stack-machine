@@ -1,0 +1,12 @@
+begin
+   n = 12;
+   while (1 <= n) do
+      x = 1;
+      while (x < 13) do
+         printint x; printchar 120; printint n; printchar 61; printint n*x; printchar 32;
+         x = x + 1;
+      done
+      printchar 13; printchar 10;
+      n = n - 1;
+   done
+end

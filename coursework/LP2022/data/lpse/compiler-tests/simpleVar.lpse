@@ -1,0 +1,6 @@
+begin
+  x = 8;
+  y = 2;
+  y = y + x;
+  printint y;
+end

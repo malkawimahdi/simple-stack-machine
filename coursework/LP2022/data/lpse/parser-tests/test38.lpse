@@ -1,0 +1,24 @@
+begin 
+   if ( 0 * 551 ) then 
+      printchar 112 ; 
+      if ( -1 ) then 
+         if ( z ) then 
+         else 
+         endif 
+      else 
+      endif 
+      printchar z ; 
+   else 
+      if ( -80 ) then 
+         printint Y ; 
+         printint Id99 ; 
+         printchar xx$7 ; 
+      else 
+      endif 
+      _$$ = 0 ; 
+   endif 
+   iD0 = ( x ) <= iD0 ; 
+   printint Y ; 
+   printchar 81 ; 
+   printchar x ; 
+end 

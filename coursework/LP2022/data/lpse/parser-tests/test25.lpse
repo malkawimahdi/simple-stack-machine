@@ -1,0 +1,9 @@
+begin 
+   while ( x - 439 ) do 
+      Id99 = iD0 ; 
+      _Algernon_ = Id99 == _$$ ; 
+      printchar ( _Algernon_ ) ; 
+      printint 0 ; 
+   done 
+   printint 365 ; 
+end 

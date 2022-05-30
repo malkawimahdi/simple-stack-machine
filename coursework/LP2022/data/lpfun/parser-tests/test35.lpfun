@@ -1,0 +1,25 @@
+begin 
+   return 1 / 897 ; 
+   printint 0 ; 
+   printint 849 ; 
+   printchar Y ; 
+end 
+fun bar ( ) { 
+   printint -200 ; 
+   return 108 ; 
+} 
+fun laLa ( Y ) { 
+} 
+fun g ( ) { 
+} 
+fun _my$Foo_ ( _Algernon_ ) { 
+   return -1 ; 
+   return 588 ; 
+   return 167 ; 
+   printchar z ; 
+   printint 643 ; 
+} 
+fun g ( ) { 
+} 
+fun g ( ) { 
+} 

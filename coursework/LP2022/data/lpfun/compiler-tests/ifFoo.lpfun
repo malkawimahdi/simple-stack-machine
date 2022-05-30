@@ -1,0 +1,15 @@
+begin
+   bar();
+end
+
+fun bar() {
+   if (foo(0)) then
+      if (foo(1)) then printint 67; else printint 58; endif
+   else
+      printint 49;
+   endif
+}
+
+fun foo(n) {
+   return n < 2;
+}

@@ -1,0 +1,18 @@
+begin
+   main(0);
+end
+
+fun main(x) {
+  printint fib(x);
+}
+
+fun fib(x) {
+  if (x < 2) then
+    result = x;
+  else
+    r1 = fib(x - 1);
+    r2 = fib(x - 2);
+    result = r1 + r2;
+  endif
+  return result;
+}

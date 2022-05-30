@@ -1,0 +1,29 @@
+begin 
+   printchar iD0 ; 
+   if ( -14 == ( _Algernon_ ) ) then 
+      if ( 749 ) then 
+         return _a ; 
+      else 
+      endif 
+      if ( __ ) then 
+      else 
+      endif 
+      printchar _Algernon_ ; 
+   else 
+   endif 
+   if ( x__ ) then 
+      printint _$$ ; 
+   else 
+      printint 276 ; 
+      return Id99 ; 
+   endif 
+   printchar 93 ; 
+   printint -1 ; 
+   printint Id99 ; 
+end 
+fun f ( ) { 
+} 
+fun laLa ( ) { 
+} 
+fun g ( _$$ , z ) { 
+} 

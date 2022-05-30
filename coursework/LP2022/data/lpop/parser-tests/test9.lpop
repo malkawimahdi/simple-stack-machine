@@ -1,0 +1,4 @@
+begin 
+   printchar Y ; 
+   printchar 122 ; 
+end 

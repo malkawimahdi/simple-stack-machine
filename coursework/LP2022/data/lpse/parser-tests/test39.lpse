@@ -1,0 +1,14 @@
+begin 
+   if ( ( ( __ <= ( x ) ) == -31 ) - 0 ) then 
+      printchar Y ; 
+      printchar x__ ; 
+   else 
+      printchar 75 * ( 896 ) ; 
+      while ( 1 ) do 
+      done 
+   endif 
+   printchar ( 1 - ( z ) ) < ( 217 ) ; 
+   printint 504 ; 
+   printint 767 ; 
+   printchar 56 ; 
+end 

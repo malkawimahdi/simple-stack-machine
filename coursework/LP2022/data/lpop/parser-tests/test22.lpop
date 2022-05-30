@@ -1,0 +1,13 @@
+begin 
+   _Algernon_ = 0 ; 
+   printchar 42 ; 
+   if ( Y ) then 
+   else 
+   endif 
+   if ( Id99 ) then 
+      printchar 99 ; 
+   else 
+   endif 
+   printchar 107 ; 
+   printint Id99 ; 
+end 

@@ -1,0 +1,7 @@
+begin 
+   printchar x__ ; 
+   x__ = 1 ; 
+   printchar 75 ; 
+   while ( __ ) do 
+   done 
+end 

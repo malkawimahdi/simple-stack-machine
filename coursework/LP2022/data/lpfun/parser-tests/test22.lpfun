@@ -1,0 +1,13 @@
+begin 
+   while ( 688 ) do 
+      printint __ ; 
+   done 
+   while ( x__ ) do 
+   done 
+   printint Id99 ; 
+   printchar 101 ; 
+end 
+fun foo ( ) { 
+} 
+fun foo ( ) { 
+} 
