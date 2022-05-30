@@ -1,0 +1,3 @@
+begin
+    printint 789
+end

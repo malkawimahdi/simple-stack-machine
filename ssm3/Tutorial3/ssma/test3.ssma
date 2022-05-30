@@ -1,0 +1,43 @@
+push 72
+push 3
+sysc
+push 2
+sysc
+ 
+push 101
+push 3
+sysc
+push 2
+sysc
+ 
+push 108
+push 3
+sysc
+push 2
+sysc
+ 
+push 108
+push 3
+sysc
+push 2
+sysc
+ 
+push 111
+push 3
+sysc
+push 2
+sysc
+ 
+push 13
+push 3
+sysc
+push 2
+sysc
+ 
+push 10
+push 3
+sysc
+push 2
+sysc
+ 
+halt

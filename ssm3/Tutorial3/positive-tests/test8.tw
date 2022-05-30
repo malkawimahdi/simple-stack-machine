@@ -1,0 +1,9 @@
+begin
+    {
+        printint 123;
+        printint 456;
+    }
+    printint 789;
+    printchar 13;
+    printchar 10;
+end

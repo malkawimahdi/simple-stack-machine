@@ -1,0 +1,8 @@
+begin
+    if (0) {
+        printint 10;
+        printint 99;
+    }
+    printchar 13;
+    printchar 10;
+end

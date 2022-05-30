@@ -1,0 +1,14 @@
+begin
+    if (0)
+        if (0)
+            printint 11;
+        else
+            printint 22;
+    else
+        if (9)
+            printint 33;
+        else
+            printint 44;
+    printchar 13;
+    printchar 10;
+end

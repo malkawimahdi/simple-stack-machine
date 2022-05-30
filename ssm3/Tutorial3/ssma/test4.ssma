@@ -1,0 +1,26 @@
+push 0
+push 10
+push 3
+sysc
+push 2
+sysc
+ 
+push 20
+push 3
+sysc
+push 2
+sysc
+ 
+push 13
+push 3
+sysc
+push 2
+sysc
+ 
+push 10
+push 3
+sysc
+push 2
+sysc
+ 
+halt

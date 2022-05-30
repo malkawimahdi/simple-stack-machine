@@ -1,0 +1,31 @@
+push 123
+push 3
+sysc
+push 2
+sysc
+ 
+push 456
+push 3
+sysc
+push 2
+sysc
+ 
+push 789
+push 3
+sysc
+push 2
+sysc
+ 
+push 13
+push 3
+sysc
+push 2
+sysc
+ 
+push 10
+push 3
+sysc
+push 2
+sysc
+ 
+halt

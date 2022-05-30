@@ -1,0 +1,49 @@
+//begin
+push 1
+test_z
+push $false
+jump_z
+push $else
+jump
+$false:
+push 10
+push 3
+sysc
+push 2
+sysc
+ 
+push 99
+push 3
+sysc
+push 2
+sysc
+ 
+push $end
+jump
+$else: 
+push 20
+push 3
+sysc
+push 2
+sysc
+ 
+push 88
+push 3
+sysc
+push 2
+sysc
+ 
+$end:
+push 13
+push 3
+sysc
+push 2
+sysc
+ 
+push 10
+push 3
+sysc
+push 2
+sysc
+ 
+halt
