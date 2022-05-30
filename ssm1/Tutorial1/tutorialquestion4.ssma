@@ -1,0 +1,46 @@
+push x //Push memory address of variable x onto the stack. <0>
+
+load //Load the value located at the memory address of x onto the stack <6>
+
+push y //Push memory address of variable y onto the stack. <6, 0>
+
+load //Load the value located at the memory address of y onto the stack. <6,13>
+
+sub //Pop the two most recent ints and perform subtraction on them. <-7>
+
+push $xIsTrue //Declaring a variable to a relative memory address called xIsTrue. It is pushed on stack <-7, 9>
+
+jump_n //Using a conditional jump based on if the number is negative. It needs the value and address in that order.
+
+push $else //Sequential jump that will run if the push above ^^^ is not true. It will jump to the else segment
+
+jump //Jump operates on the address of the memory location that is required to jump.
+
+$xIsTrue:
+
+push y //If x < y, then push y. This will load memory address of y onto stack. <0>
+
+load //Pops the memory address of y and pushes the value located at the memory address <13>
+
+push $xIsTrueIsComplete //Pushes the memory address of the jump location.
+
+jump //Jump operates on the memory address that you would like to jump to.
+
+$else: //Else jump occurs if it is not skipped by jump_n condition.
+
+push x //Pushes memory address of x onto stack. <0>
+
+load //Pops the memory address and pushes the value located at the memory address into the stack. <6>
+
+$xIsTrueIsComplete: //Jump location for if x is true.
+
+push 3 //Push 3 onto the stack. <6,13,3>
+
+sysc //Sysc operates on the value at the top of the stack, therefore printing 13. <6>
+
+halt// Program ceases to continue.
+
+.data //Data section where I have variable declaration with values assigned to variables.
+x: 6 // int x = 6
+y: 13 //int y = 13
+

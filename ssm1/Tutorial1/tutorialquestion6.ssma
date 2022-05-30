@@ -1,0 +1,13 @@
+$loop: // Memory address of where the loop will go to. <MemAdd>
+
+push 88 //Push the value 88 onto the stack <MemAdd, 88>
+
+push 1 //Push the value 1 onto the stack <MemAdd, 88, 1>
+
+sysc //System call operates on value on top of the stack which is 1, and prints ASCII of the next value, which is X. <MemAdd>
+
+push $loop //Loop is used by using a jump.
+
+jump //Jump goes to the start of the program.
+
+//Since this program does not incorporate a halt, the program is endless.

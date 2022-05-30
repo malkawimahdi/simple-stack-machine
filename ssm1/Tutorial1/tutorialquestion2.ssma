@@ -1,0 +1,15 @@
+push 3 //Push 3 onto the stack <3>
+
+push 7 //Push 7 onto the stack <3,7>
+
+mul //Multiplies the values by popping the 2 most recent ints and then pushing the new value. <21>
+
+push 9 //Push 9 onto the stack <21,9>
+
+add //Adds the two most recent values by popping them off the stack, then adding the new value on <30>
+
+push 3 //Push 3 onto thr stack <30, 3>
+
+sysc //Sysc operates on the top value on the stack.
+
+halt //Program ceases to continue.

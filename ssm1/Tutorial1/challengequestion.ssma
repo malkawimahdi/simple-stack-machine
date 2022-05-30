@@ -1,0 +1,15 @@
+//Somehow I am able to reverse the array with the use of a space.
+push myName
+push 4
+sysc
+
+push space
+push 4
+sysc
+
+halt
+
+.data //Create a string variable in the .data header which converts each character into ASCII code.
+myName: "Mahdi Malkawi"
+space: 32
+myNameBackwards: "iwaklaM idhaM"

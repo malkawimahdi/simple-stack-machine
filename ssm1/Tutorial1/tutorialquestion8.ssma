@@ -1,0 +1,82 @@
+push M //Push the variable m's memory address onto the stack. <MemAdd>
+load //Pops the variables memory address and pushes value located in address. <77>
+push 1 // Pushes 1 onto the stack. <77,1>
+sysc System call operates on the value on top of the stack to print the ASCII character 'M'.
+
+//Will not provide more comments as it is exactly the same to print my name out.
+
+push a
+load
+push 1
+sysc
+
+push h
+load
+push 1
+sysc
+
+push d
+load
+push 1
+sysc
+
+push i
+load
+push 1
+sysc
+
+push space
+load
+push 1
+sysc
+
+push M
+load
+push 1
+sysc
+
+push a
+load
+push 1
+sysc
+
+push l
+load
+push 1
+sysc
+
+push k
+load
+push 1
+sysc
+
+push a
+load
+push 1
+sysc
+
+push w
+load
+push 1
+sysc
+
+push i
+load
+push 1
+sysc
+
+halt
+
+.data
+M: 77
+a: 97
+h: 104
+d: 100
+i: 105
+
+space: 32
+
+
+l: 108
+k: 107
+w: 119

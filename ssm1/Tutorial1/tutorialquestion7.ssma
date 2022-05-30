@@ -1,0 +1,44 @@
+$loop: //Stating to SSM, where the loop will begin.
+
+push x //Push memory address of the variable x onto stack. <MemAdd>
+
+load //Pop the memory address and push the value located in the memory address. <500>
+
+push $end //Declaring where to push. <500, MemAdd of $end>
+
+jump_z //Conditional jump if the value on top of the stack is 0.
+
+push x //Push the memory address of the variable x onto the stack. <MemAdd>
+
+load //Pop the memory address and push the value located in the memory address. <500>
+
+push 1 //Push 1 onto the stack. <500,1>
+
+sub //Subtracts the top elements from one another in the form of 1st - 2nd = 3rd <-499>
+
+push x //Push the memory address of the variable x onto the stack. <MemAdd>
+
+store // Stores the value in the memory address above, which is x so <MemAdd[x] = -499>
+
+push y //Push the memory address of the variable y onto the stack. <MemAddX, MemAddY>
+
+load //Loads the value located at memory address y into memory. <MemAddX, 88>
+
+push 1 //Push 1 onto the stack. <MemAddX, 88, 1>
+
+sysc //System call operates on the element on top of the stack. <MemAddX>
+
+push $loop //Memory addressed is pushed onto the stack. <MemAddX, MemAdd$loop>
+
+jump //Jump is performed to the memory address specified on element at the top of the stack.
+
+$end: //$end location is specified.
+
+push 2 //Push the element 2 onto the stack <2>
+
+sysc //System call operates on the element on top of the stack, which is 2.
+halt //System ceases to continue.
+
+.data //Data header.
+x: 500 //int x = 500
+y: 88 //int y = 88

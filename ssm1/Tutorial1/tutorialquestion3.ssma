@@ -1,0 +1,15 @@
+push 7 //Push 7 onto the stack <7>
+
+push 9 //Push 9 onto the stack <9>
+
+add //Adds the most recent values by popping them off the stack, then pushing the new value on. <16>
+
+push 3 //Push 3 onto the stack. <16, 3>
+
+mul //Multiplies the 2 most recent numbers on the stack by popping them, then replacing them with the new value <48>
+
+push 3 //Pushes 3 onto the stack <3>
+
+sysc //Sysc is performed on the value on top of the stack.
+
+halt //Program ceases to continue.

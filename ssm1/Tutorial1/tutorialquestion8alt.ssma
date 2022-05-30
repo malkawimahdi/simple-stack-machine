@@ -1,0 +1,55 @@
+//This version pushes ASCII characters directly instead of pushing a memory address and then loading the value.
+//This approach is much more efficient.
+push 77
+push 1
+sysc
+
+push 97
+push 1
+sysc
+
+push 104
+push 1
+sysc
+
+push 100
+push 1
+sysc
+
+push 105
+push 1
+sysc
+
+push 32
+push 1
+sysc
+
+push 77
+push 1
+sysc
+
+push 97
+push 1
+sysc
+
+push 108
+push 1
+sysc
+
+push 107
+push 1
+sysc
+
+push 97
+push 1
+sysc
+
+push 119
+push 1
+sysc
+
+push 105
+push 1
+sysc
+
+halt

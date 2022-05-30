@@ -1,0 +1,11 @@
+// This program is more efficient that my original program, as this program deals with much fewer operations.
+// Also, this program doesn't need the .data section to store variables.
+
+push 88 //Push the value 88 onto the stack <88>
+
+push 1 //Push the value 1 onto the stack <88,1>
+
+sysc //System call operates on the value on top of the stack (1). <88>
+
+halt //Program ceases to continue.
+

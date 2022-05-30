@@ -1,0 +1,12 @@
+push x //Push the memory address of the variable x into the stack <0>
+
+load //Pops the memory address of the variable x and loads the value located at the memory address <88>
+
+push 1 //Push 1 onto the stack <88,1>
+
+sysc //System call operates on the value at the top of the stack. Which outputs a character based on ascii code.
+
+halt //Program ceases to continue.
+
+.data //Data header to define variables.
+x: 88 //int x = 88

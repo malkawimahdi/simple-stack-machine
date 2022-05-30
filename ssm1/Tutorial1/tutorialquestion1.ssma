@@ -1,0 +1,11 @@
+push 10  // Push 10 onto the stack <10>
+
+push 5 // Push 5 onto the stack <10, 5>
+
+add //Add pops the items on the stack, and then pushes the added value. <15>
+
+push 3 // Push 3 onto the stack <15,3>
+
+sysc //System call operates on the value on the top of the stack, so sysc 3 will print out the next value.
+
+halt //Program ceases to continue.
